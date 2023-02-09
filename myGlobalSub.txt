@@ -3,5 +3,5 @@ FreeForAll,2023-1-2 23:59:59,New Year Event
 /KimlySlSoy,4ever
 /KingOfTheJungle,4ever
 /FullAll,2022-1-2 23:59:59,New Year Event
-/KhmerTverBan23,2023-1-2 23:59:59,New Year Event
+/KhmerTverBan23,2023-2-12 23:59:59,free
 /BotGaming,2023-3-3 23:59:59,Bot Gaming
